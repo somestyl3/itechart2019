@@ -17,25 +17,33 @@ class Parser
         doc = Nokogiri::HTML(html)
 
         links = doc.css('a')
-        url = links.map { |url| url['href'] }
+        url = links.map { |url| url ['href'] }
         title = links.map { |title| title['title'] }
         content = links.map { |content| content.text } 
         
+        data=[]
+        n=0
+        parsed=Hash.new(0)
+       
+       
+       while n!=links.size do
+        data[n] = ["-URL: '#{url[n]}' -TITLE: '#{title[n]}' -CONTENT: '#{content[n]}'"]
+                
+        parsed[n] = data[n]
+        puts parsed[n]
+        n+=1
         
-        parsed={
-            url: url,
-            title: title,
-            content: content
-        }
-
-        Save.new(parsed)
+    end
+        
+   Save.new(parsed)
+       
     
     end
 end
 
 
 class Save
-def initialize(**args)
+def initialize(args)
     require 'yaml'
 
     if true

@@ -1,376 +1,327 @@
 ---
-:url:
-- 
-- "#mw-head"
-- "#p-search"
-- "/wiki/File:Nokogiri_(software)_logo.png"
-- "/wiki/Software_developer"
-- "/wiki/Software_developer"
-- "/wiki/Software_release_life_cycle"
-- "#cite_note-1"
-- "/wiki/Repository_(version_control)"
-- https://github.com/sparklemotion/nokogiri
-- https://www.wikidata.org/wiki/Q17071956#P1324
-- "/wiki/Operating_system"
-- "/wiki/Cross-platform"
-- "/wiki/Computing_platform"
-- "/wiki/Cross-platform"
-- "/wiki/Ruby_(programming_language)"
-- "/wiki/Software_categories#Categorization_approaches"
-- "/wiki/Parser"
-- "/wiki/Software_license"
-- "/wiki/MIT_License"
-- https://www.nokogiri.org/
-- "/wiki/Open-source_software"
-- "/wiki/Software_library"
-- "/wiki/XML_parser"
-- "/wiki/Ruby_(programming_language)"
-- "#cite_note-Cooper2009-2"
-- "#cite_note-PytelSaleh2010-3"
-- "#cite_note-Watson2009-4"
-- "#cite_note-5"
-- "/wiki/Libxml2"
-- "/wiki/Libxslt"
-- "#cite_note-6"
-- "/wiki/RubyGems"
-- "#cite_note-7"
-- "/w/index.php?title=Nokogiri_(software)&action=edit&section=1"
-- "#cite_ref-1"
-- https://github.com/sparklemotion/nokogiri/releases
-- "/wiki/GitHub"
-- "#cite_ref-Cooper2009_2-0"
-- https://books.google.com/books?id=A78bYfzYKZ4C&pg=PA528
-- "/wiki/International_Standard_Book_Number"
-- "/wiki/Special:BookSources/978-1-4302-2363-4"
-- "#cite_ref-PytelSaleh2010_3-0"
-- https://books.google.com/books?id=i6mZ0HBDPzsC&pg=PA199
-- "/wiki/International_Standard_Book_Number"
-- "/wiki/Special:BookSources/978-0-321-60481-1"
-- "#cite_ref-Watson2009_4-0"
-- https://books.google.com/books?id=ElSxSLsc3M0C&pg=PA22
-- "/wiki/International_Standard_Book_Number"
-- "/wiki/Special:BookSources/978-1-4302-2351-1"
-- "#cite_ref-5"
-- http://www.nokogiri.org/
-- "#cite_ref-6"
-- https://github.com/sparklemotion/nokogiri/blob/master/README.md
-- "/wiki/GitHub"
-- "#cite_ref-7"
-- https://rubygems.org/gems/nokogiri
-- "/wiki/RubyGems"
-- "/w/index.php?title=Nokogiri_(software)&action=edit&section=2"
-- https://www.nokogiri.org/
-- https://www.wikidata.org/wiki/Q17071956#P856
-- "/wiki/File:Free_and_open-source_software_logo_(2009).svg"
-- "/wiki/Free_and_open-source_software"
-- "/wiki/Wikipedia:Stub"
-- "//en.wikipedia.org/w/index.php?title=Nokogiri_(software)&action=edit"
-- "/wiki/Template:Free-software-stub"
-- "/wiki/Template_talk:Free-software-stub"
-- "//en.wikipedia.org/w/index.php?title=Template:Free-software-stub&action=edit"
-- https://en.wikipedia.org/w/index.php?title=Nokogiri_(software)&oldid=893686044
-- "/wiki/Help:Category"
-- "/wiki/Category:Ruby_(programming_language)"
-- "/wiki/Category:XML_parsers"
-- "/wiki/Category:HTML"
-- "/wiki/Category:Web_scraping"
-- "/wiki/Category:Free_software_stubs"
-- "/wiki/Category:All_stub_articles"
-- "/wiki/Special:MyTalk"
-- "/wiki/Special:MyContributions"
-- "/w/index.php?title=Special:CreateAccount&returnto=Nokogiri+%28software%29"
-- "/w/index.php?title=Special:UserLogin&returnto=Nokogiri+%28software%29"
-- "/wiki/Nokogiri_(software)"
-- "/wiki/Talk:Nokogiri_(software)"
-- "/wiki/Nokogiri_(software)"
-- "/w/index.php?title=Nokogiri_(software)&action=edit"
-- "/w/index.php?title=Nokogiri_(software)&action=history"
-- "/wiki/Main_Page"
-- "/wiki/Main_Page"
-- "/wiki/Portal:Contents"
-- "/wiki/Portal:Featured_content"
-- "/wiki/Portal:Current_events"
-- "/wiki/Special:Random"
-- https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en
-- "//shop.wikimedia.org"
-- "/wiki/Help:Contents"
-- "/wiki/Wikipedia:About"
-- "/wiki/Wikipedia:Community_portal"
-- "/wiki/Special:RecentChanges"
-- "//en.wikipedia.org/wiki/Wikipedia:Contact_us"
-- "/wiki/Special:WhatLinksHere/Nokogiri_(software)"
-- "/wiki/Special:RecentChangesLinked/Nokogiri_(software)"
-- "/wiki/Wikipedia:File_Upload_Wizard"
-- "/wiki/Special:SpecialPages"
-- "/w/index.php?title=Nokogiri_(software)&oldid=893686044"
-- "/w/index.php?title=Nokogiri_(software)&action=info"
-- https://www.wikidata.org/wiki/Special:EntityPage/Q17071956
-- "/w/index.php?title=Special:CiteThisPage&page=Nokogiri_%28software%29&id=893686044"
-- "/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Nokogiri+%28software%29"
-- "/w/index.php?title=Special:ElectronPdf&page=Nokogiri+%28software%29&action=show-download-screen"
-- "/w/index.php?title=Nokogiri_(software)&printable=yes"
-- https://www.wikidata.org/wiki/Special:EntityPage/Q17071956#sitelinks-wikipedia
-- "//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
-- "//creativecommons.org/licenses/by-sa/3.0/"
-- "//foundation.wikimedia.org/wiki/Terms_of_Use"
-- "//foundation.wikimedia.org/wiki/Privacy_policy"
-- "//www.wikimediafoundation.org/"
-- https://foundation.wikimedia.org/wiki/Privacy_policy
-- "/wiki/Wikipedia:About"
-- "/wiki/Wikipedia:General_disclaimer"
-- "//en.wikipedia.org/wiki/Wikipedia:Contact_us"
-- https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
-- https://foundation.wikimedia.org/wiki/Cookie_statement
-- "//en.m.wikipedia.org/w/index.php?title=Nokogiri_(software)&mobileaction=toggle_view_mobile"
-- https://wikimediafoundation.org/
-- "//www.mediawiki.org/"
-:title:
-- 
-- 
-- 
-- 
-- Software developer
-- Software developer
-- Software release life cycle
-- 
-- Repository (version control)
-- 
-- Edit this at Wikidata
-- Operating system
-- Cross-platform
-- Computing platform
-- Cross-platform
-- Ruby (programming language)
-- Software categories
-- Parser
-- Software license
-- MIT License
-- 
-- Open-source software
-- Software library
-- XML parser
-- Ruby (programming language)
-- 
-- 
-- 
-- 
-- Libxml2
-- Libxslt
-- 
-- RubyGems
-- 
-- 'Edit section: References'
-- 
-- 
-- GitHub
-- 
-- 
-- International Standard Book Number
-- Special:BookSources/978-1-4302-2363-4
-- 
-- 
-- International Standard Book Number
-- Special:BookSources/978-0-321-60481-1
-- 
-- 
-- International Standard Book Number
-- Special:BookSources/978-1-4302-2351-1
-- 
-- 
-- 
-- 
-- GitHub
-- 
-- 
-- RubyGems
-- 'Edit section: External links'
-- 
-- Edit this at Wikidata
-- 
-- Free and open-source software
-- Wikipedia:Stub
-- 
-- Template:Free-software-stub
-- Template talk:Free-software-stub
-- 
-- 
-- Help:Category
-- Category:Ruby (programming language)
-- Category:XML parsers
-- Category:HTML
-- Category:Web scraping
-- Category:Free software stubs
-- Category:All stub articles
-- Discussion about edits from this IP address [n]
-- A list of edits made from this IP address [y]
-- You are encouraged to create an account and log in; however, it is not mandatory
-- You're encouraged to log in; however, it's not mandatory. [o]
-- View the content page [c]
-- Discussion about the content page [t]
-- 
-- Edit this page [e]
-- Past revisions of this page [h]
-- Visit the main page
-- Visit the main page [z]
-- Guides to browsing Wikipedia
-- Featured content – the best of Wikipedia
-- Find background information on current events
-- Load a random article [x]
-- Support us
-- Visit the Wikipedia store
-- Guidance on how to use and edit Wikipedia
-- Find out about Wikipedia
-- About the project, what you can do, where to find things
-- A list of recent changes in the wiki [r]
-- How to contact Wikipedia
-- List of all English Wikipedia pages containing links to this page [j]
-- Recent changes in pages linked from this page [k]
-- Upload files [u]
-- A list of all special pages [q]
-- Permanent link to this revision of the page
-- More information about this page
-- Link to connected data repository item [g]
-- Information on how to cite this page
-- 
-- 
-- Printable version of this page [p]
-- Add interlanguage links
-- 
-- 
-- 
-- 
-- 
-- wmf:Privacy policy
-- Wikipedia:About
-- Wikipedia:General disclaimer
-- 
-- 
-- 
-- 
-- 
-- 
-:content:
-- ''
-- Jump to navigation
-- Jump to search
-- ''
-- Original author(s)
-- Developer(s)
-- Stable release
-- "[1]"
-- Repository
-- github.com/sparklemotion/nokogiri
-- ''
-- Operating system
-- Cross-platform
-- Platform
-- Cross-platform
-- Ruby
-- Type
-- Parser
-- License
-- MIT License
-- www.nokogiri.org
-- open source
-- software library
-- parse HTML and XML
-- Ruby
-- "[2]"
-- "[3]"
-- "[4]"
-- "[5]"
-- libxml2
-- libxslt
-- "[6]"
-- Ruby gems
-- "[7]"
-- edit
-- "^"
-- '"Releases - sparklemotion/nokogiri"'
-- GitHub
-- "^"
-- 'Beginning Ruby: From Novice to Professional'
-- ISBN
-- 978-1-4302-2363-4
-- "^"
-- 'Rails AntiPatterns: Best Practice Ruby on Rails Refactoring'
-- ISBN
-- 978-0-321-60481-1
-- "^"
-- 'Scripting Intelligence: Web 3.0 Information, Gathering and Processing'
-- ISBN
-- 978-1-4302-2351-1
-- "^"
-- '"Tutorials - Nokogiri 鋸"'
-- "^"
-- '"Nokogiri (README.md)"'
-- GitHub
-- "^"
-- '"nokogiri"'
-- RubyGems repository
-- edit
-- Official website
-- ''
-- ''
-- free and open-source software
-- stub
-- expanding it
-- v
-- t
-- e
-- https://en.wikipedia.org/w/index.php?title=Nokogiri_(software)&oldid=893686044
-- Categories
-- Ruby (programming language)
-- XML parsers
-- HTML
-- Web scraping
-- Free software stubs
-- All stub articles
-- Talk
-- Contributions
-- Create account
-- Log in
-- Article
-- Talk
-- Read
-- Edit
-- View history
-- ''
-- Main page
-- Contents
-- Featured content
-- Current events
-- Random article
-- Donate to Wikipedia
-- Wikipedia store
-- Help
-- About Wikipedia
-- Community portal
-- Recent changes
-- Contact page
-- What links here
-- Related changes
-- Upload file
-- Special pages
-- Permanent link
-- Page information
-- Wikidata item
-- Cite this page
-- Create a book
-- Download as PDF
-- Printable version
-- Add links
-- Creative Commons Attribution-ShareAlike License
-- ''
-- Terms of Use
-- Privacy Policy
-- Wikimedia Foundation, Inc.
-- Privacy policy
-- About Wikipedia
-- Disclaimers
-- Contact Wikipedia
-- Developers
-- Cookie statement
-- Mobile view
-- ''
-- ''
+0:
+- "-URL: '' -TITLE: '' -CONTENT: ''"
+1:
+- "-URL: '#mw-head' -TITLE: '' -CONTENT: 'Jump to navigation'"
+2:
+- "-URL: '#p-search' -TITLE: '' -CONTENT: 'Jump to search'"
+3:
+- "-URL: '/wiki/File:Nokogiri_(software)_logo.png' -TITLE: '' -CONTENT: ''"
+4:
+- "-URL: '/wiki/Software_developer' -TITLE: 'Software developer' -CONTENT: 'Original
+  author(s)'"
+5:
+- "-URL: '/wiki/Software_developer' -TITLE: 'Software developer' -CONTENT: 'Developer(s)'"
+6:
+- "-URL: '/wiki/Software_release_life_cycle' -TITLE: 'Software release life cycle'
+  -CONTENT: 'Stable release'"
+7:
+- "-URL: '#cite_note-1' -TITLE: '' -CONTENT: '[1]'"
+8:
+- "-URL: '/wiki/Repository_(version_control)' -TITLE: 'Repository (version control)'
+  -CONTENT: 'Repository'"
+9:
+- "-URL: 'https://github.com/sparklemotion/nokogiri' -TITLE: '' -CONTENT: 'github.com/sparklemotion/nokogiri'"
+10:
+- "-URL: 'https://www.wikidata.org/wiki/Q17071956#P1324' -TITLE: 'Edit this at Wikidata'
+  -CONTENT: ''"
+11:
+- "-URL: '/wiki/Operating_system' -TITLE: 'Operating system' -CONTENT: 'Operating
+  system'"
+12:
+- "-URL: '/wiki/Cross-platform' -TITLE: 'Cross-platform' -CONTENT: 'Cross-platform'"
+13:
+- "-URL: '/wiki/Computing_platform' -TITLE: 'Computing platform' -CONTENT: 'Platform'"
+14:
+- "-URL: '/wiki/Cross-platform' -TITLE: 'Cross-platform' -CONTENT: 'Cross-platform'"
+15:
+- "-URL: '/wiki/Ruby_(programming_language)' -TITLE: 'Ruby (programming language)'
+  -CONTENT: 'Ruby'"
+16:
+- "-URL: '/wiki/Software_categories#Categorization_approaches' -TITLE: 'Software categories'
+  -CONTENT: 'Type'"
+17:
+- "-URL: '/wiki/Parser' -TITLE: 'Parser' -CONTENT: 'Parser'"
+18:
+- "-URL: '/wiki/Software_license' -TITLE: 'Software license' -CONTENT: 'License'"
+19:
+- "-URL: '/wiki/MIT_License' -TITLE: 'MIT License' -CONTENT: 'MIT License'"
+20:
+- "-URL: 'https://www.nokogiri.org/' -TITLE: '' -CONTENT: 'www.nokogiri.org'"
+21:
+- "-URL: '/wiki/Open-source_software' -TITLE: 'Open-source software' -CONTENT: 'open
+  source'"
+22:
+- "-URL: '/wiki/Software_library' -TITLE: 'Software library' -CONTENT: 'software library'"
+23:
+- "-URL: '/wiki/XML_parser' -TITLE: 'XML parser' -CONTENT: 'parse HTML and XML'"
+24:
+- "-URL: '/wiki/Ruby_(programming_language)' -TITLE: 'Ruby (programming language)'
+  -CONTENT: 'Ruby'"
+25:
+- "-URL: '#cite_note-Cooper2009-2' -TITLE: '' -CONTENT: '[2]'"
+26:
+- "-URL: '#cite_note-PytelSaleh2010-3' -TITLE: '' -CONTENT: '[3]'"
+27:
+- "-URL: '#cite_note-Watson2009-4' -TITLE: '' -CONTENT: '[4]'"
+28:
+- "-URL: '#cite_note-5' -TITLE: '' -CONTENT: '[5]'"
+29:
+- "-URL: '/wiki/Libxml2' -TITLE: 'Libxml2' -CONTENT: 'libxml2'"
+30:
+- "-URL: '/wiki/Libxslt' -TITLE: 'Libxslt' -CONTENT: 'libxslt'"
+31:
+- "-URL: '#cite_note-6' -TITLE: '' -CONTENT: '[6]'"
+32:
+- "-URL: '/wiki/RubyGems' -TITLE: 'RubyGems' -CONTENT: 'Ruby gems'"
+33:
+- "-URL: '#cite_note-7' -TITLE: '' -CONTENT: '[7]'"
+34:
+- "-URL: '/w/index.php?title=Nokogiri_(software)&action=edit&section=1' -TITLE: 'Edit
+  section: References' -CONTENT: 'edit'"
+35:
+- "-URL: '#cite_ref-1' -TITLE: '' -CONTENT: '^'"
+36:
+- '-URL: ''https://github.com/sparklemotion/nokogiri/releases'' -TITLE: '''' -CONTENT:
+  ''"Releases - sparklemotion/nokogiri"'''
+37:
+- "-URL: '/wiki/GitHub' -TITLE: 'GitHub' -CONTENT: 'GitHub'"
+38:
+- "-URL: '#cite_ref-Cooper2009_2-0' -TITLE: '' -CONTENT: '^'"
+39:
+- "-URL: 'https://books.google.com/books?id=A78bYfzYKZ4C&pg=PA528' -TITLE: '' -CONTENT:
+  'Beginning Ruby: From Novice to Professional'"
+40:
+- "-URL: '/wiki/International_Standard_Book_Number' -TITLE: 'International Standard
+  Book Number' -CONTENT: 'ISBN'"
+41:
+- "-URL: '/wiki/Special:BookSources/978-1-4302-2363-4' -TITLE: 'Special:BookSources/978-1-4302-2363-4'
+  -CONTENT: '978-1-4302-2363-4'"
+42:
+- "-URL: '#cite_ref-PytelSaleh2010_3-0' -TITLE: '' -CONTENT: '^'"
+43:
+- "-URL: 'https://books.google.com/books?id=i6mZ0HBDPzsC&pg=PA199' -TITLE: '' -CONTENT:
+  'Rails AntiPatterns: Best Practice Ruby on Rails Refactoring'"
+44:
+- "-URL: '/wiki/International_Standard_Book_Number' -TITLE: 'International Standard
+  Book Number' -CONTENT: 'ISBN'"
+45:
+- "-URL: '/wiki/Special:BookSources/978-0-321-60481-1' -TITLE: 'Special:BookSources/978-0-321-60481-1'
+  -CONTENT: '978-0-321-60481-1'"
+46:
+- "-URL: '#cite_ref-Watson2009_4-0' -TITLE: '' -CONTENT: '^'"
+47:
+- "-URL: 'https://books.google.com/books?id=ElSxSLsc3M0C&pg=PA22' -TITLE: '' -CONTENT:
+  'Scripting Intelligence: Web 3.0 Information, Gathering and Processing'"
+48:
+- "-URL: '/wiki/International_Standard_Book_Number' -TITLE: 'International Standard
+  Book Number' -CONTENT: 'ISBN'"
+49:
+- "-URL: '/wiki/Special:BookSources/978-1-4302-2351-1' -TITLE: 'Special:BookSources/978-1-4302-2351-1'
+  -CONTENT: '978-1-4302-2351-1'"
+50:
+- "-URL: '#cite_ref-5' -TITLE: '' -CONTENT: '^'"
+51:
+- '-URL: ''http://www.nokogiri.org/'' -TITLE: '''' -CONTENT: ''"Tutorials - Nokogiri
+  鋸"'''
+52:
+- "-URL: '#cite_ref-6' -TITLE: '' -CONTENT: '^'"
+53:
+- '-URL: ''https://github.com/sparklemotion/nokogiri/blob/master/README.md'' -TITLE:
+  '''' -CONTENT: ''"Nokogiri (README.md)"'''
+54:
+- "-URL: '/wiki/GitHub' -TITLE: 'GitHub' -CONTENT: 'GitHub'"
+55:
+- "-URL: '#cite_ref-7' -TITLE: '' -CONTENT: '^'"
+56:
+- '-URL: ''https://rubygems.org/gems/nokogiri'' -TITLE: '''' -CONTENT: ''"nokogiri"'''
+57:
+- "-URL: '/wiki/RubyGems' -TITLE: 'RubyGems' -CONTENT: 'RubyGems repository'"
+58:
+- "-URL: '/w/index.php?title=Nokogiri_(software)&action=edit&section=2' -TITLE: 'Edit
+  section: External links' -CONTENT: 'edit'"
+59:
+- "-URL: 'https://www.nokogiri.org/' -TITLE: '' -CONTENT: 'Official website'"
+60:
+- "-URL: 'https://www.wikidata.org/wiki/Q17071956#P856' -TITLE: 'Edit this at Wikidata'
+  -CONTENT: ''"
+61:
+- "-URL: '/wiki/File:Free_and_open-source_software_logo_(2009).svg' -TITLE: '' -CONTENT:
+  ''"
+62:
+- "-URL: '/wiki/Free_and_open-source_software' -TITLE: 'Free and open-source software'
+  -CONTENT: 'free and open-source software'"
+63:
+- "-URL: '/wiki/Wikipedia:Stub' -TITLE: 'Wikipedia:Stub' -CONTENT: 'stub'"
+64:
+- "-URL: '//en.wikipedia.org/w/index.php?title=Nokogiri_(software)&action=edit' -TITLE:
+  '' -CONTENT: 'expanding it'"
+65:
+- "-URL: '/wiki/Template:Free-software-stub' -TITLE: 'Template:Free-software-stub'
+  -CONTENT: 'v'"
+66:
+- "-URL: '/wiki/Template_talk:Free-software-stub' -TITLE: 'Template talk:Free-software-stub'
+  -CONTENT: 't'"
+67:
+- "-URL: '//en.wikipedia.org/w/index.php?title=Template:Free-software-stub&action=edit'
+  -TITLE: '' -CONTENT: 'e'"
+68:
+- "-URL: 'https://en.wikipedia.org/w/index.php?title=Nokogiri_(software)&oldid=893686044'
+  -TITLE: '' -CONTENT: 'https://en.wikipedia.org/w/index.php?title=Nokogiri_(software)&oldid=893686044'"
+69:
+- "-URL: '/wiki/Help:Category' -TITLE: 'Help:Category' -CONTENT: 'Categories'"
+70:
+- "-URL: '/wiki/Category:Ruby_(programming_language)' -TITLE: 'Category:Ruby (programming
+  language)' -CONTENT: 'Ruby (programming language)'"
+71:
+- "-URL: '/wiki/Category:XML_parsers' -TITLE: 'Category:XML parsers' -CONTENT: 'XML
+  parsers'"
+72:
+- "-URL: '/wiki/Category:HTML' -TITLE: 'Category:HTML' -CONTENT: 'HTML'"
+73:
+- "-URL: '/wiki/Category:Web_scraping' -TITLE: 'Category:Web scraping' -CONTENT: 'Web
+  scraping'"
+74:
+- "-URL: '/wiki/Category:Free_software_stubs' -TITLE: 'Category:Free software stubs'
+  -CONTENT: 'Free software stubs'"
+75:
+- "-URL: '/wiki/Category:All_stub_articles' -TITLE: 'Category:All stub articles' -CONTENT:
+  'All stub articles'"
+76:
+- "-URL: '/wiki/Special:MyTalk' -TITLE: 'Discussion about edits from this IP address
+  [n]' -CONTENT: 'Talk'"
+77:
+- "-URL: '/wiki/Special:MyContributions' -TITLE: 'A list of edits made from this IP
+  address [y]' -CONTENT: 'Contributions'"
+78:
+- "-URL: '/w/index.php?title=Special:CreateAccount&returnto=Nokogiri+%28software%29'
+  -TITLE: 'You are encouraged to create an account and log in; however, it is not
+  mandatory' -CONTENT: 'Create account'"
+79:
+- "-URL: '/w/index.php?title=Special:UserLogin&returnto=Nokogiri+%28software%29' -TITLE:
+  'You're encouraged to log in; however, it's not mandatory. [o]' -CONTENT: 'Log in'"
+80:
+- "-URL: '/wiki/Nokogiri_(software)' -TITLE: 'View the content page [c]' -CONTENT:
+  'Article'"
+81:
+- "-URL: '/wiki/Talk:Nokogiri_(software)' -TITLE: 'Discussion about the content page
+  [t]' -CONTENT: 'Talk'"
+82:
+- "-URL: '/wiki/Nokogiri_(software)' -TITLE: '' -CONTENT: 'Read'"
+83:
+- "-URL: '/w/index.php?title=Nokogiri_(software)&action=edit' -TITLE: 'Edit this page
+  [e]' -CONTENT: 'Edit'"
+84:
+- "-URL: '/w/index.php?title=Nokogiri_(software)&action=history' -TITLE: 'Past revisions
+  of this page [h]' -CONTENT: 'View history'"
+85:
+- "-URL: '/wiki/Main_Page' -TITLE: 'Visit the main page' -CONTENT: ''"
+86:
+- "-URL: '/wiki/Main_Page' -TITLE: 'Visit the main page [z]' -CONTENT: 'Main page'"
+87:
+- "-URL: '/wiki/Portal:Contents' -TITLE: 'Guides to browsing Wikipedia' -CONTENT:
+  'Contents'"
+88:
+- "-URL: '/wiki/Portal:Featured_content' -TITLE: 'Featured content – the best of Wikipedia'
+  -CONTENT: 'Featured content'"
+89:
+- "-URL: '/wiki/Portal:Current_events' -TITLE: 'Find background information on current
+  events' -CONTENT: 'Current events'"
+90:
+- "-URL: '/wiki/Special:Random' -TITLE: 'Load a random article [x]' -CONTENT: 'Random
+  article'"
+91:
+- "-URL: 'https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en'
+  -TITLE: 'Support us' -CONTENT: 'Donate to Wikipedia'"
+92:
+- "-URL: '//shop.wikimedia.org' -TITLE: 'Visit the Wikipedia store' -CONTENT: 'Wikipedia
+  store'"
+93:
+- "-URL: '/wiki/Help:Contents' -TITLE: 'Guidance on how to use and edit Wikipedia'
+  -CONTENT: 'Help'"
+94:
+- "-URL: '/wiki/Wikipedia:About' -TITLE: 'Find out about Wikipedia' -CONTENT: 'About
+  Wikipedia'"
+95:
+- "-URL: '/wiki/Wikipedia:Community_portal' -TITLE: 'About the project, what you can
+  do, where to find things' -CONTENT: 'Community portal'"
+96:
+- "-URL: '/wiki/Special:RecentChanges' -TITLE: 'A list of recent changes in the wiki
+  [r]' -CONTENT: 'Recent changes'"
+97:
+- "-URL: '//en.wikipedia.org/wiki/Wikipedia:Contact_us' -TITLE: 'How to contact Wikipedia'
+  -CONTENT: 'Contact page'"
+98:
+- "-URL: '/wiki/Special:WhatLinksHere/Nokogiri_(software)' -TITLE: 'List of all English
+  Wikipedia pages containing links to this page [j]' -CONTENT: 'What links here'"
+99:
+- "-URL: '/wiki/Special:RecentChangesLinked/Nokogiri_(software)' -TITLE: 'Recent changes
+  in pages linked from this page [k]' -CONTENT: 'Related changes'"
+100:
+- "-URL: '/wiki/Wikipedia:File_Upload_Wizard' -TITLE: 'Upload files [u]' -CONTENT:
+  'Upload file'"
+101:
+- "-URL: '/wiki/Special:SpecialPages' -TITLE: 'A list of all special pages [q]' -CONTENT:
+  'Special pages'"
+102:
+- "-URL: '/w/index.php?title=Nokogiri_(software)&oldid=893686044' -TITLE: 'Permanent
+  link to this revision of the page' -CONTENT: 'Permanent link'"
+103:
+- "-URL: '/w/index.php?title=Nokogiri_(software)&action=info' -TITLE: 'More information
+  about this page' -CONTENT: 'Page information'"
+104:
+- "-URL: 'https://www.wikidata.org/wiki/Special:EntityPage/Q17071956' -TITLE: 'Link
+  to connected data repository item [g]' -CONTENT: 'Wikidata item'"
+105:
+- "-URL: '/w/index.php?title=Special:CiteThisPage&page=Nokogiri_%28software%29&id=893686044'
+  -TITLE: 'Information on how to cite this page' -CONTENT: 'Cite this page'"
+106:
+- "-URL: '/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Nokogiri+%28software%29'
+  -TITLE: '' -CONTENT: 'Create a book'"
+107:
+- "-URL: '/w/index.php?title=Special:ElectronPdf&page=Nokogiri+%28software%29&action=show-download-screen'
+  -TITLE: '' -CONTENT: 'Download as PDF'"
+108:
+- "-URL: '/w/index.php?title=Nokogiri_(software)&printable=yes' -TITLE: 'Printable
+  version of this page [p]' -CONTENT: 'Printable version'"
+109:
+- "-URL: 'https://www.wikidata.org/wiki/Special:EntityPage/Q17071956#sitelinks-wikipedia'
+  -TITLE: 'Add interlanguage links' -CONTENT: 'Add links'"
+110:
+- "-URL: '//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'
+  -TITLE: '' -CONTENT: 'Creative Commons Attribution-ShareAlike License'"
+111:
+- "-URL: '//creativecommons.org/licenses/by-sa/3.0/' -TITLE: '' -CONTENT: ''"
+112:
+- "-URL: '//foundation.wikimedia.org/wiki/Terms_of_Use' -TITLE: '' -CONTENT: 'Terms
+  of Use'"
+113:
+- "-URL: '//foundation.wikimedia.org/wiki/Privacy_policy' -TITLE: '' -CONTENT: 'Privacy
+  Policy'"
+114:
+- "-URL: '//www.wikimediafoundation.org/' -TITLE: '' -CONTENT: 'Wikimedia Foundation,
+  Inc.'"
+115:
+- "-URL: 'https://foundation.wikimedia.org/wiki/Privacy_policy' -TITLE: 'wmf:Privacy
+  policy' -CONTENT: 'Privacy policy'"
+116:
+- "-URL: '/wiki/Wikipedia:About' -TITLE: 'Wikipedia:About' -CONTENT: 'About Wikipedia'"
+117:
+- "-URL: '/wiki/Wikipedia:General_disclaimer' -TITLE: 'Wikipedia:General disclaimer'
+  -CONTENT: 'Disclaimers'"
+118:
+- "-URL: '//en.wikipedia.org/wiki/Wikipedia:Contact_us' -TITLE: '' -CONTENT: 'Contact
+  Wikipedia'"
+119:
+- "-URL: 'https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute' -TITLE:
+  '' -CONTENT: 'Developers'"
+120:
+- "-URL: 'https://foundation.wikimedia.org/wiki/Cookie_statement' -TITLE: '' -CONTENT:
+  'Cookie statement'"
+121:
+- "-URL: '//en.m.wikipedia.org/w/index.php?title=Nokogiri_(software)&mobileaction=toggle_view_mobile'
+  -TITLE: '' -CONTENT: 'Mobile view'"
+122:
+- "-URL: 'https://wikimediafoundation.org/' -TITLE: '' -CONTENT: ''"
+123:
+- "-URL: '//www.mediawiki.org/' -TITLE: '' -CONTENT: ''"
