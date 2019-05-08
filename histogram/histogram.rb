@@ -1,4 +1,4 @@
-data = Array.new(100) do |i|
+data = Array.new(100) do |i| #test
     i = rand(100)
   end 
 
