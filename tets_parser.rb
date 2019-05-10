@@ -3,28 +3,23 @@ require 'nokogiri'
 require 'yaml'
 
 class Parser
-  def initialize(url)
-    if url == 'https://en.wikipedia.org/wiki/Nokogiri_(software)'
-      @url = url
-      parse(@url)
-    else
-      puts 'Your url is not valid'
-    end
+  def initialize
+    attr_accessor :url
   end
 
-  def parse(url)
-    html = open(@url)
+  def parse
+    page = Nokogiri::HTML(open('https://en.wikipedia.org/wiki/Nokogiri_(software)'))
+  end
 
-    doc = Nokogiri::HTML(html)
+  def parse(*)
+    links = page.css('a')
 
-    links = doc.css('a')
     url = links.map { |url| url['href'] }
     title = links.map { |title| title['title'] }
     content = links.map(&:text)
 
     data = []
     parsed = Hash.new(0)
-
     links.each_with_index do |_link, index|
       data[index] = ["-URL: '#{url[index]}'\n -TITLE: '#{title[index]}'\n -CONTENT: '#{content[index]}'"]
       parsed[index] = data[index]
@@ -37,9 +32,8 @@ end
 class Saver
   def initialize(args)
     File.open('/home/viachaslau/Documents/itechartgit/Parser/parsed_data.yml', 'w') do |file|
-        file.write args.to_yaml
-        puts 'Saved to file'
-      end
+      file.write args.to_yaml
+      puts 'Saved to file'
+    end
   end
 end
-P = Parser.new('https://en.wikipedia.org/wiki/Nokogiri_(software)')

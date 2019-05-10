@@ -1,0 +1,25 @@
++1) С отступами все плохо. В руби отступы кратны двум пробелам
++2) В Ruby есть соглашение по именованию классов и методов. Имена классов - существительные, имена методов - глаголы, если это не имя атрибута
+3) Непонятно почему мы можем парсить только Nokogiri сайт. Я просто назначил его в качетсве ресурса.
+4) + за  идею валидировать URL, но провалидировал ты совсем не то, что стоило бы.
++5) Строка 20. `url ['href']`. Здесь пробел не нужен
++6) Строка 22. `content = links.map { |content| content.text }` -> `content = links.map(&:text)`
++7) Непонятно зачем `while true do … end`, когда можно было просто пройтись по ссылкам с помощью `.each`
+```links.each_with_index do |link, index|
+  data[index] = ["-URL: '#{url[index]}' -TITLE: '#{title[index]}' -CONTENT: '#{content[index]}'"]
+  parsed[index] = data[index]
+  puts parsed[index]  
+end```
++8) Все импорты библиотек выносятся в шпку файла.
+9) Метод `def parse(url)` - солянка. И в интернет ходит, и сайты парсит. Должен быть отдельный метод, которых ходит и выкачивает сайт.
+10) Эт вообще непонятно что :man-shrugging:
+```if true
+    File.open("/home/viachaslau/Documents/itechartgit/Parser/parsed_data.yml", "w") do |file|
+      file.write args.to_yaml
+    end
+    puts "Saved to file"
+else
+    puts "Saving error!"
+end```
+В `else` ты никогда не зайдешь. Да и вообще непонятно зачем тут этот `if else`
+11) Ну и YAML файл построен неправильно (edited) 
