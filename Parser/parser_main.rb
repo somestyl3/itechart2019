@@ -15,7 +15,7 @@ class Parser
   def parse(url)
     html = open(@url)
     doc = Nokogiri::HTML(html)
-
+    
     links = doc.css('a')
     url = links.map { |url| url['href'] }
     title = links.map { |title| title['title'] }
