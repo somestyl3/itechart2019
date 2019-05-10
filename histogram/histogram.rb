@@ -1,11 +1,9 @@
-data = Array.new(100) do |i|
-    i = rand(100)
-  end 
+data = Array.new(100) { rand(100) }
 
 module Enumerable
-    def to_histogram
-      inject(Hash.new(0)) { |k, v| k[v] += 1; k }
-    end
+  def to_histogram
+    each_with_object(Hash.new(0)) { |v, k| k[v] += 1; }
+  end
 end
 
 puts data.to_histogram
