@@ -14,7 +14,6 @@ class Parser
 
   def parse(url)
     html = open(@url)
-
     doc = Nokogiri::HTML(html)
 
     links = doc.css('a')
