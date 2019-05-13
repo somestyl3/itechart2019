@@ -4,7 +4,7 @@ require 'yaml'
 
 class Parser
   def initialize(url)
-    if url == 'https://en.wikipedia.org/wiki/Nokogiri_(software)'
+    if url =~ URI::DEFAULT_PARSER.make_regexp
       @url = url
       parse(@url)
     else
@@ -12,13 +12,12 @@ class Parser
     end
   end
 
-  def parse(url)
-    html = open(@url)
-    doc = Nokogiri::HTML(html)
+  def parse(_url)
+    doc = Nokogiri::HTML(open(@url))
 
     links = doc.css('a')
-    url = links.map { |url| url['href'] }
-    title = links.map { |title| title['title'] }
+    url = links.map { |u| u['href'] }
+    title = links.map { |t| t['title'] }
     content = links.map(&:text)
 
     data = []
