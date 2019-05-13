@@ -23,9 +23,9 @@ class Parser
 
     data = []
     parsed = Hash.new(0)
-
     links.each_with_index do |_link, index|
-      data[index] = ["-URL: '#{url[index]}'\n -TITLE: '#{title[index]}'\n -CONTENT: '#{content[index]}'"]
+      data[index] = ["-URL: '#{url[index]}'\n -TITLE: '#{title[index]}' \
+      -CONTENT: '#{content[index]}'"]
       parsed[index] = data[index]
       puts parsed[index]
     end
@@ -35,7 +35,7 @@ end
 
 class Saver
   def initialize(args)
-    File.open('/home/viachaslau/Documents/itechartgit/Parser/parsed_data.yml', 'w') do |file|
+    File.open('/home/viachaslau/Documents/itechartgit/Parser/parsed_data.yaml', 'w') do |file|
         file.write args.to_yaml
         puts 'Saved to file'
       end
