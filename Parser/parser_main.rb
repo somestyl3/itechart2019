@@ -34,7 +34,7 @@ end
 
 class Saver
   def initialize(args)
-    File.open('/home/viachaslau/Documents/itechartgit/Parser/parsed_data.yaml', 'w') do |file|
+    File.open('parsed_data.yaml', 'w') do |file|
         file.write args.to_yaml
         puts 'Saved to file'
       end
