@@ -23,7 +23,7 @@ class Tree
         tree_hash[i] << branch
         tree_hash[i] << File.basename(tree_data[i])
       end
-      (0..tree_hash[i].size).each do |index|
+      Parallel.map((0..tree_hash[i].size), in_threads: 3) do |index|
         if tree_hash[i + 1].nil? && tree_hash[i][index] == branch
           tree_hash[i][index] = leaf
         elsif tree_hash[i + 1].nil?
