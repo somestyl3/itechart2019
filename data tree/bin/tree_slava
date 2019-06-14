@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'data_tree'
+ARGV.empty?
+DataTree.new
