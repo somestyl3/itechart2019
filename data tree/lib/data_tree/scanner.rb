@@ -1,6 +1,6 @@
 require 'pathname'
 class Scanner
-  def scan(root = Dir.pwd)
+  def scan(root)
     path_arr = []
     root = Pathname.new(root)
     root.find { |v| path_arr << v }

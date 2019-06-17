@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'tree_slava'
-  s.version     = '0.0.4'
+  s.version     = '0.2.1'
   s.license     = 'MIT'
   s.summary     = 'Data tree'
   s.description = 'Data tree utility gem'
