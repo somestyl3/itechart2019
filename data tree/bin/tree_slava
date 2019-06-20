@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+
+require 'data_tree'
+
+if ARGV[0]
+  tree = DataTree.new(ARGV[0])
+  tree
+else
+  tree = DataTree.new
+end
+Scanner.new.scan(tree.path)
